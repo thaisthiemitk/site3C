@@ -1,1 +1,2 @@
-# site3C
+# projeto-alura
+site:  https://mipinheiro.github.io/projeto-alura/
